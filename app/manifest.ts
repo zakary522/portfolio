@@ -2,10 +2,10 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Naman Barkiya | Applied AI Engineer",
-    short_name: "Naman Barkiya",
+    name: "Zakary Overmyer | Senior Software Engineer",
+    short_name: "Zakary Overmyer",
     description:
-      "Naman Barkiya - Applied AI Engineer working at the intersection of AI, data, and scalable software systems.",
+      "Zakary Overmyer - Senior Software Engineer with strong experience building scalable Web and Mobile applications. Skilled in modern frameworks, cloud infrastructure, and AI driven features such as automation, data analysis, and intelligent user experiences. Focused on clean architecture, performance, and reliable product delivery. 🚀",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",

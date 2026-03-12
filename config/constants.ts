@@ -60,6 +60,10 @@ export type ValidSkills =
   | "FastAPI"
   | "SQL"
   | "NoSQL"
+  | "LLM"
+  | "AI Agent"
+  | "OpenAI"
+  | ".NET"
   | "Framer Motion";
 
 export type ValidCategory =

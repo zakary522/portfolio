@@ -30,13 +30,13 @@ export interface ProjectInterface {
 export const Projects: ProjectInterface[] = [
   {
     id: "portfolio-template",
-    companyName: "Portfolio Website (130+ GitHub stars)",
+    companyName: "Portfolio Website",
     type: "Personal",
     category: ["Web Dev", "Frontend", "UI/UX"],
     shortDescription:
       "Open-source Next.js portfolio template recognized and forked by developers worldwide, optimized for SEO/AEO and performance.",
-    websiteLink: "https://nbarkiya.xyz",
-    githubLink: "https://github.com/namanbarkiya/minimal-next-portfolio",
+    websiteLink: "",
+    githubLink: "https://github.com/zakary522/portfolio",
     techStack: [
       "Next.js",
       "React",
@@ -107,7 +107,7 @@ export const Projects: ProjectInterface[] = [
     shortDescription:
       "Production-ready Next.js 15 template for developers and AI startups. Includes authentication, state management, beautiful UI components, and everything needed to build scalable SaaS applications.",
     websiteLink: "https://niya.nbarkiya.xyz",
-    githubLink: "https://github.com/namanbarkiya/niya-saas-template",
+    githubLink: "https://github.com/zakary522/niya-saas-template",
     techStack: ["Next.js", "React", "Typescript", "Supabase", "Tailwind CSS"],
     startDate: new Date("2024-08-01"),
     endDate: new Date("2025-01-01"),
@@ -155,8 +155,8 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Frontend", "3D Modeling"],
     shortDescription:
       "Forged an immersive 3D Portfolio Card utilizing the prowess of Three.js and Blender, where art and technology converge in an interactive masterpiece.",
-    websiteLink: "https://card.namanbarkiya.xyz/",
-    githubLink: "https://github.com/namanbarkiya/3d-portfolio-card",
+    websiteLink: "https://card.zakary522.xyz/",
+    githubLink: "https://github.com/zakary522/3d-portfolio-card",
     techStack: ["React", "Javascript", "HTML 5", "CSS 3"],
     startDate: new Date("2022-03-01"),
     endDate: new Date("2022-07-01"),
@@ -381,7 +381,7 @@ export const Projects: ProjectInterface[] = [
     category: ["Mobile Dev", "Full Stack", "UI/UX"],
     shortDescription:
       "Developed a feature-rich mobile shopping application with admin panel, user authentication, and seamless product management using React Native and Firebase.",
-    githubLink: "https://github.com/namanbarkiya/apex-shopping-app",
+    githubLink: "https://github.com/zakary522/apex-shopping-app",
     techStack: ["React Native", "Javascript", "Redux", "Node.js", "express.js"],
     startDate: new Date("2021-07-14"),
     endDate: new Date("2022-07-01"),
@@ -504,7 +504,7 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Frontend", "UI/UX"],
     shortDescription:
       "Created a dashboard project using React and Tailwind CSS, focusing on UI design and routing implementation.",
-    websiteLink: "https://cirql-ui.namanbarkiya.xyz/",
+    websiteLink: "https://cirql-ui.zakary522.xyz/",
     techStack: ["React", "Tailwind CSS", "Google Auth"],
     startDate: new Date("2023-01-01"),
     endDate: new Date("2023-02-15"),
@@ -547,8 +547,8 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "UI/UX"],
     shortDescription:
       "Developed a user-friendly website for Inscript Hindi typing, addressing the need for a simple tool for Hindi writers to convey data digitally.",
-    websiteLink: "https://hindityping.namanbarkiya.xyz",
-    githubLink: "https://github.com/namanbarkiya/inscript-hindi-keyboard",
+    websiteLink: "https://hindityping.zakary522.xyz",
+    githubLink: "https://github.com/zakary522/inscript-hindi-keyboard",
     techStack: ["HTML 5", "CSS 3", "Javascript"],
     startDate: new Date("2022-05-01"),
     endDate: new Date("2022-06-15"),
