@@ -1,9 +1,9 @@
 export const siteConfig = {
-  name: "Zakary Overmyer - Applied AI Engineer",
+  name: "Zakary Overmyer - Senior Software Engineer",
   authorName: "Zakary Overmyer",
   username: "zakary522",
   description:
-    "Zakary Overmyer - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
+    "Zakary Overmyer - Senior Software Engineer with strong experience building scalable Web and Mobile applications. Skilled in modern frameworks, cloud infrastructure, and AI driven features such as automation, data analysis, and intelligent user experiences. Focused on clean architecture, performance, and reliable product delivery. 🚀",
   url: "https://nbarkiya.xyz",
   links: {
     twitter: "https://x.com/zakary522",
@@ -18,7 +18,7 @@ export const siteConfig = {
     "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
   keywords: [
     "Zakary Overmyer",
-    "Applied AI Engineer",
+    "Senior Software Engineer",
     "AI Engineer",
     "Software Engineer",
     "Full Stack Developer",

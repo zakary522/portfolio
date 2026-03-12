@@ -18,18 +18,18 @@ export const SocialLinks: SocialInterface[] = [
     name: "LinkedIn",
     username: "Zakary Overmyer",
     icon: Icons.linkedin,
-    link: "https://www.linkedin.com/in/zakary522",
+    link: "https://www.linkedin.com/in/zakary-overmyer-3aa855393/",
   },
-  {
-    name: "Twitter",
-    username: "@zakary522",
-    icon: Icons.twitter,
-    link: "https://twitter.com/zakary522",
-  },
+  // {
+  //   name: "Twitter",
+  //   username: "@zakary522",
+  //   icon: Icons.twitter,
+  //   link: "https://twitter.com/zakary522",
+  // },
   {
     name: "Gmail",
-    username: "naman.barkiya02",
+    username: "zakaryovermyer818",
     icon: Icons.gmail,
-    link: "mailto:naman.barkiya02@gmail.com",
+    link: "mailto:zakaryovermyer818@outlook.com",
   },
 ];

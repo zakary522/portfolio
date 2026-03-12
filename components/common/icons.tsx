@@ -67,6 +67,9 @@ import {
   SiTailwindcss,
   SiTypescript,
   SiX,
+  SiOpenai,
+  SiLangchain,
+  SiFlutter,
 } from "react-icons/si";
 
 export const Icons = {
@@ -130,6 +133,9 @@ export const Icons = {
   linkedin: SiLinkedin,
   userFill: BiSolidUser,
   work: HiBriefcase,
+  openai: SiOpenai,
+  langchain: SiLangchain,
+  flutter: SiFlutter,
   gitHub: ({ ...props }: LucideProps) => (
     <svg
       aria-hidden="true"

@@ -73,7 +73,7 @@ export default async function Project({ params }: ProjectPageProps) {
           >
             <Image
               src={profileImg}
-              alt={"naman"}
+              alt={"zakary"}
               width={42}
               height={42}
               className="rounded-full bg-background"

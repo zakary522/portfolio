@@ -97,7 +97,7 @@ const faqSchema = {
 
 ### Descriptive Alt Text on Every Image
 
-AI models process alt text as fact sources. `alt="Zakary Overmyer - Applied AI Engineer Portfolio"` is a much better factual signal than `alt="profile photo"`.
+AI models process alt text as fact sources. `alt="Zakary Overmyer - Senior Software Engineer Portfolio"` is a much better factual signal than `alt="profile photo"`.
 
 ## The Broader Principle
 

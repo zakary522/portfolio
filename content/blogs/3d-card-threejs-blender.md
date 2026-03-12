@@ -150,14 +150,14 @@ const linkPos = {
     y: -1.06,
     z: 0.03,
     name: "ClickableCircle2",
-    link: "https://www.linkedin.com/in/naman-barkiya-015323200/",
+    link: "https://www.linkedin.com/in/zakary-overmyer-3aa855393/",
   },
   circle3: {
     x: 0.55,
     y: -1.06,
     z: 0.03,
     name: "ClickableCircle3",
-    link: "mailto:naman.barkiya02@gmail.com",
+    link: "mailto:zakaryovermyer818@outlook.com",
   },
 };
 ```
